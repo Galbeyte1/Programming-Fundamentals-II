@@ -3,7 +3,7 @@
 //Program   : Postal Packages 
 //Programmer: Galbeyte Salad
 //Completed : 11/26/2017
-//Status    : COMPLEED
+//Status    : COMPLETED
 //
 //*****************************************************************************/
 
